@@ -1,4 +1,4 @@
-# Online-Judge Project (MERN Stack Project) 
+# # AN ONLNE CODE EDITOR (MERN Stack Project) 
 
 - Build an Online-Judge that remotely compiles user submitted code for a programming
 problem securely, judges the code as per efficiency and correctness.
@@ -9,3 +9,6 @@ techniques.
 provides access to users to keep track of their progress by maintaining leaderboard and history
 of submissions.
 - Deployed on Amazon AWS EC2 Service.
+
+## Contributor
+- Kanishka Khanna 
